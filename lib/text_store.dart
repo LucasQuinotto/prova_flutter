@@ -1,6 +1,8 @@
+
 import 'package:mobx/mobx.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 part 'text_store.g.dart';
+
 
 class TextStore = AbstractTextStore with _$TextStore;
 

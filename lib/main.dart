@@ -1,6 +1,5 @@
 
 import 'package:flutter/material.dart';
-import 'package:prova_flutter/information_capture_screen.dart';
 import 'package:prova_flutter/login_screen.dart';
 
 
